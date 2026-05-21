@@ -158,19 +158,19 @@ npm run dev
 
 ## Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/LoginPage.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/DashboardPage.png)
 
 ---
 
 ## Swagger API Documentation
 
-![Swagger](screenshots/swagger.png)
+![Swagger](screenshots/SwaggerPage.png)
 
 # Author
 
