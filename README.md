@@ -149,12 +149,28 @@ npm run dev
 # Future Improvements
 
 - Docker Deployment
-- Kubernetes Deployment
 - Email Notifications
 - Task Comments
 - File Attachments
 
 ---
+# Screenshots
+
+## Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Swagger API Documentation
+
+![Swagger](screenshots/swagger.png)
 
 # Author
 
